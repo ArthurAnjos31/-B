@@ -9,28 +9,37 @@ body{ background-color: #383D58;}
     
     display: flex;
 align-items: center;
+
 }
 
 
-ul{ color: white;}
-.cl{text-size-adjusts: 60px; display: flex; 
-padding-left: 100px;
-    align-items: center;
-    margin-top: 0px
-    ;}
+ul{ color: rgb(0, 0, 0);
 
-    .cll{text-size-adjusts: 60px; display: flex; 
-        padding-left: 100px;
-            align-items: center
-            ;}
+
+}
+.cl{ display: flex;
+    margin-left: 700px;
+    }
+.cll{display: flex;
+    margin-left: 700px;
+    }
 
 .foto{ display: flex;
 align-items: center;
-width: 300px;
+size: 1000,1000,1000;
 
 }
-.fot{ width: 500px;}
 
 
 
-.escola{background-image: linear-gradient(#383d58, #00C8EB);}
+
+
+
+.fot{ width: 350px;}
+
+
+.logo{background-color: white ; display: flex;
+justify-content: center;}
+
+
+.escola{background-image: linear-gradient(white,#383d58, #00C8EB);}
